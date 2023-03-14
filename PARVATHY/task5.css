@@ -1,0 +1,15 @@
+h3{
+    text-align: center;
+    color: lightcoral;
+}
+.li{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 10%;
+}
+.img1{
+    display: block;
+    text-align: center;
+}
